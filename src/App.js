@@ -1,3 +1,5 @@
+import Header from "./";
+
 function App() {
   return (
     <div>
